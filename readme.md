@@ -12,7 +12,8 @@
 
 ## 📸 Screenshot
 
-> *(Add a screenshot of the app here)*
+> ![App Screenshot](/img-01.png)
+> ![App Screenshot](/img-02.png)
 
 ---
 
